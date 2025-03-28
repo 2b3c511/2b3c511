@@ -6,6 +6,19 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello World ;Summer 同学祝您天天开心!&center=true&size=27" />
     </a>
   </div>
+  <div>
+  <span align="left" width="50%">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    </picture>
+  </span> <span align="right" width="50%">
+     <picture>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2b3c511&layout=compact" />
+    </picture>
+  </span>
+    </div>
   <div style="display: flex; justify-content: space-between;">
     <!-- knock code pictures 敲代码的图片 -->
     <picture>
@@ -27,7 +40,7 @@
 <p>&emsp;&emsp;嗨，你好，我是Summer同学。热爱编程、读书、旅行、运动、游戏。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;<strong>热爱可抵岁月漫长。</p>
-
+- 📫 How to reach me **xmz.li@foxmail.com**
 
 ![Visitor Count](https://profile-counter.glitch.me/2b3c511/count.svg)
 
