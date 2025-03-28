@@ -15,7 +15,8 @@
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
 <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
 
-![](https://stats.justsong.cn/api/csdn?username=2b3c511&cn=true)
+
+![](https://stats.justsong.cn/api/csdn?id=lr1916417519)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2b3c511&layout=compact)](https://github.com/2b3c511/github-readme-stats)
