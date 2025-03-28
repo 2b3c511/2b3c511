@@ -33,23 +33,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=2b3c511&row=1&margin-w=10&theme=dark_lover" />
 </div>
 
-## 🌐 Social Links
-
-<div align="center">
-  <a href="https://twitter.com/sun0225SUN/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-  <a href="https://www.youtube.com/@sun0225SUN"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-  <a href="https://sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
-  <a href="https://wechat.guoqi.dev"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-  <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>
-</div>
-
-## 📈 Activity Stats
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-  <a href="https://wakatime.com/@sun0225SUN"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
-</div>
-
 ## 🎨 Contribution Graph
 
 <picture>
@@ -63,8 +46,7 @@
   <img src="https://profile-counter.glitch.me/2b3c511/count.svg" />
 </div>
 
-<br>
-## Appreciate your feedbacks
+## 💌 Appreciate your feedbacks
 
 <b>:performing_arts: Leave a message to me? </b>--> **xmz.li@foxmail.com**
 
