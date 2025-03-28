@@ -5,8 +5,8 @@
 ![Visitor Count](https://profile-counter.glitch.me/2b3c511/count.svg)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2b3c511/2b3c511/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2b3c511/2b3c511/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2b3c511/Summer/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2b3c511/Summer/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/2b3c511/2b3c511/output/github-contribution-grid-snake.svg">
 </picture>
 
